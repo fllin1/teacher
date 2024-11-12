@@ -22,13 +22,14 @@ def extract_vocab(text: str, vocab: dict) -> dict:
     Returns:
         dict: The vocabulary dictionary
     """
+
     for word in text:
         word = "".join(e for e in word if e.isalnum())
         if word.startswith(" "):
             word = word[1:]
         if word not in vocab and 0 < len(word) < 12:
             vocab[word] = {}
-        return vocab
+    return vocab
 
 
 def vocab_list(vocab: str, file_path: str, folder_path: str = "../data/raw") -> dict:
@@ -43,5 +44,5 @@ def vocab_list(vocab: str, file_path: str, folder_path: str = "../data/raw") -> 
         dict: The vocabulary dictionary
     """
     text = read_docx(os.path.join(folder_path, file_path))
-    vocab = extract_vocab(text, vocab)
-    return vocab
+    extracted_vocab = extract_vocab(text.split(" "), vocab)
+    return extracted_vocab

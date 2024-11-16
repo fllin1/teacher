@@ -1,0 +1,3585 @@
+{
+    "选举": {
+        "traduction": [
+            "élire",
+            "élection"
+        ],
+        "pinyin": "xuǎn jǔ"
+    },
+    "尽量": {
+        "traduction": [
+            "de toutes ses forces",
+            "autant que possible"
+        ],
+        "pinyin": "jìn liàng"
+    },
+    "尽力": {
+        "traduction": [
+            "faire tout son possible"
+        ],
+        "pinyin": "jìn lì"
+    },
+    "警戒": {
+        "traduction": [
+            "monter la garde"
+        ],
+        "pinyin": "jǐng jiè"
+    },
+    "枪击": {
+        "traduction": [
+            "faire feu sur",
+            "tirer sur"
+        ],
+        "pinyin": "qiāng jī"
+    },
+    "受伤": {
+        "traduction": [
+            "être blessé"
+        ],
+        "pinyin": "shòu shāng"
+    },
+    "改变": {
+        "traduction": [
+            "changer",
+            "modifier",
+            "transformer"
+        ],
+        "pinyin": "gǎi biàn"
+    },
+    "复杂": {
+        "traduction": [
+            "complexe",
+            "compliqué"
+        ],
+        "pinyin": "fù zá"
+    },
+    "简单": {
+        "traduction": [
+            "simple",
+            "facile",
+            "pas compliqué",
+            "ordinaire"
+        ],
+        "pinyin": "jiǎn dān"
+    },
+    "设备": {
+        "traduction": [
+            "équipement"
+        ],
+        "pinyin": "shè bèi"
+    },
+    "警察": {
+        "traduction": [
+            "police",
+            "policier",
+            "officier de police"
+        ],
+        "pinyin": "jǐng chá"
+    },
+    "安装": {
+        "traduction": [
+            "installer",
+            "monter",
+            "placer"
+        ],
+        "pinyin": "ān zhuāng"
+    },
+    "浪费": {
+        "traduction": [
+            "gaspiller",
+            "gaspillage"
+        ],
+        "pinyin": "làng fèi"
+    },
+    "志愿": {
+        "traduction": [
+            "désir",
+            "aspiration",
+            "être volontaire"
+        ],
+        "pinyin": "zhì yuàn"
+    },
+    "衬衫": {
+        "traduction": [
+            "chemise (vêtement)",
+            "chemisier"
+        ],
+        "pinyin": "chèn shān"
+    },
+    "昂贵": {
+        "traduction": [
+            "cher",
+            "couteux"
+        ],
+        "pinyin": "áng guì"
+    },
+    "便宜": {
+        "traduction": [
+            "bon marché",
+            "pas cher",
+            "avantage",
+            "gain"
+        ],
+        "pinyin": "pián yi"
+    },
+    "紧张": {
+        "traduction": [
+            "manquer",
+            "tendu",
+            "acharné",
+            "intense",
+            "excité",
+            "nerveux",
+            "stressé"
+        ],
+        "pinyin": "jǐn zhāng"
+    },
+    "松弛": {
+        "traduction": [
+            "décontraction",
+            "distension",
+            "flaccidité",
+            "distendre",
+            "décontracter"
+        ],
+        "pinyin": "sōng chí"
+    },
+    "打仗": {
+        "traduction": [
+            "combattre",
+            "faire la guerre"
+        ],
+        "pinyin": "dǎ zhàng"
+    },
+    "失败": {
+        "traduction": [
+            "perdre (être battu)",
+            "échouer",
+            "rater"
+        ],
+        "pinyin": "shī bài"
+    },
+    "胜利": {
+        "traduction": [
+            "victoire",
+            "réussir"
+        ],
+        "pinyin": "shèng lì"
+    },
+    "竞赛": {
+        "traduction": [
+            "compétition",
+            "concours"
+        ],
+        "pinyin": "jìng sài"
+    },
+    "缓慢": {
+        "traduction": [
+            "lent"
+        ],
+        "pinyin": "huǎn màn"
+    },
+    "结算": {
+        "traduction": [
+            "liquidation",
+            "régler"
+        ],
+        "pinyin": "jié suàn"
+    },
+    "普通": {
+        "traduction": [
+            "ordinaire",
+            "commun",
+            "normal",
+            "général"
+        ],
+        "pinyin": "pǔ tōng"
+    },
+    "课堂": {
+        "traduction": [
+            "salle de cours"
+        ],
+        "pinyin": "kè táng"
+    },
+    "教室": {
+        "traduction": [
+            "(salle de) classe"
+        ],
+        "pinyin": "jiào shì"
+    },
+    "突然": {
+        "traduction": [
+            "soudain",
+            "soudainement",
+            "brusquement",
+            "subitement",
+            "abruptement"
+        ],
+        "pinyin": "tū rán"
+    },
+    "忽然": {
+        "traduction": [
+            "soudain",
+            "tout à coup"
+        ],
+        "pinyin": "hū rán"
+    },
+    "转换": {
+        "traduction": [
+            "changer",
+            "convertir",
+            "transformer"
+        ],
+        "pinyin": "zhuǎn huàn"
+    },
+    "竞争": {
+        "traduction": [
+            "concurrence",
+            "concourir"
+        ],
+        "pinyin": "jìng zhēng"
+    },
+    "压力": {
+        "traduction": [
+            "pression"
+        ],
+        "pinyin": "yā lì"
+    },
+    "模拟": {
+        "traduction": [
+            "simuler",
+            "analogique"
+        ],
+        "pinyin": "mó nǐ"
+    },
+    "勉强": {
+        "traduction": [
+            "se forcer à",
+            "forcer",
+            "insuffisant",
+            "à peine",
+            "juste",
+            "malgré soi",
+            "à contrecoeur"
+        ],
+        "pinyin": "miǎn qiǎng"
+    },
+    "预计": {
+        "traduction": [
+            "estimer",
+            "prévoir"
+        ],
+        "pinyin": "yù jì"
+    },
+    "互补": {
+        "traduction": [
+            "mutuellement complémentaire"
+        ],
+        "pinyin": "hù bǔ"
+    },
+    "聚会": {
+        "traduction": [
+            "fête",
+            "réunion",
+            "se retrouver"
+        ],
+        "pinyin": "jù huì"
+    },
+    "比喻": {
+        "traduction": [
+            "parabole (rhétorique)"
+        ],
+        "pinyin": "bǐ yù"
+    },
+    "遇到": {
+        "traduction": [
+            "rencontrer (qqn)",
+            "se rencontrer",
+            "tomber sur",
+            "se heurter",
+            "survenir",
+            "se produire (un accident, etc.)"
+        ],
+        "pinyin": "yù dào"
+    },
+    "综合": {
+        "traduction": [
+            "résumer",
+            "synthétiser"
+        ],
+        "pinyin": "zōng hé"
+    },
+    "吸引": {
+        "traduction": [
+            "attirer",
+            "séduire",
+            "aguicher"
+        ],
+        "pinyin": "xī yǐn"
+    },
+    "尤为": {
+        "traduction": [
+            "particulièrement"
+        ],
+        "pinyin": "yóu wéi"
+    },
+    "亲人": {
+        "traduction": [
+            "proche parent"
+        ],
+        "pinyin": "qīn rén"
+    },
+    "健康": {
+        "traduction": [
+            "sain",
+            "bien portant",
+            "vigoureux",
+            "être en bonne santé"
+        ],
+        "pinyin": "jiàn kāng"
+    },
+    "继续": {
+        "traduction": [
+            "continuer",
+            "poursuivre",
+            "persister"
+        ],
+        "pinyin": "jì xù"
+    },
+    "呼吸": {
+        "traduction": [
+            "respirer"
+        ],
+        "pinyin": "hū xī"
+    },
+    "清新": {
+        "traduction": [
+            "propre et frais"
+        ],
+        "pinyin": "qīng xīn"
+    },
+    "晾晒": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "好处": {
+        "traduction": [
+            "avantage",
+            "profit",
+            "bénéfice",
+            "utilité"
+        ],
+        "pinyin": "hǎo chu"
+    },
+    "坏处": {
+        "traduction": [
+            "inconvénient"
+        ],
+        "pinyin": "huài chu"
+    },
+    "总统": {
+        "traduction": [
+            "président (d'un pays)"
+        ],
+        "pinyin": "zǒng tǒng"
+    },
+    "岛屿": {
+        "traduction": [
+            "ile"
+        ],
+        "pinyin": "dǎo yǔ"
+    },
+    "独立": {
+        "traduction": [
+            "indépendance"
+        ],
+        "pinyin": "dú lì"
+    },
+    "支持": {
+        "traduction": [
+            "soutenir",
+            "appuyer"
+        ],
+        "pinyin": "zhī chí"
+    },
+    "优点": {
+        "traduction": [
+            "point fort",
+            "qualité",
+            "atout",
+            "avantage"
+        ],
+        "pinyin": "yōu diǎn"
+    },
+    "缺点": {
+        "traduction": [
+            "défaut",
+            "insuffisance"
+        ],
+        "pinyin": "quē diǎn"
+    },
+    "答应": {
+        "traduction": [
+            "promettre",
+            "accepter",
+            "consentir",
+            "répondre"
+        ],
+        "pinyin": "dā ying"
+    },
+    "回答": {
+        "traduction": [
+            "réponse",
+            "répondre",
+            "répliquer"
+        ],
+        "pinyin": "huí dá"
+    },
+    "优秀": {
+        "traduction": [
+            "remarquable",
+            "excellent"
+        ],
+        "pinyin": "yōu xiù"
+    },
+    "优良": {
+        "traduction": [
+            "bon",
+            "excellent"
+        ],
+        "pinyin": "yōu liáng"
+    },
+    "良好": {
+        "traduction": [
+            "excellent"
+        ],
+        "pinyin": "liáng hǎo"
+    },
+    "中等": {
+        "traduction": [
+            "moyen",
+            "secondaire",
+            "de qualité moyenne"
+        ],
+        "pinyin": "zhōng děng"
+    },
+    "较差": {
+        "traduction": [
+            "médiocre",
+            "plutôt pauvre",
+            "pas spécialement bon"
+        ],
+        "pinyin": "jiào chā"
+    },
+    "很差": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "关心": {
+        "traduction": [
+            "s'intéresser à",
+            "se soucier de",
+            "s'inquiéter de",
+            "avoir à coeur"
+        ],
+        "pinyin": "guān xīn"
+    },
+    "另外": {
+        "traduction": [
+            "autre",
+            "en outre",
+            "de plus",
+            "en plus",
+            "en supplément",
+            "supplémentaire"
+        ],
+        "pinyin": "lìng wài"
+    },
+    "批评": {
+        "traduction": [
+            "critiquer",
+            "critique (n.f.)",
+            "commentaire"
+        ],
+        "pinyin": "pī píng"
+    },
+    "表扬": {
+        "traduction": [
+            "louer",
+            "exalter"
+        ],
+        "pinyin": "biǎo yáng"
+    },
+    "程度": {
+        "traduction": [
+            "niveau",
+            "degré"
+        ],
+        "pinyin": "chéng dù"
+    },
+    "较轻": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "较重": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "较好": {
+        "traduction": [
+            "de préférence",
+            "plutôt ou relativement bon"
+        ],
+        "pinyin": "jiào hǎo"
+    },
+    "来源": {
+        "traduction": [
+            "origine",
+            "issue",
+            "source",
+            "provenance"
+        ],
+        "pinyin": "lái yuán"
+    },
+    "来源于": {
+        "traduction": [
+            "originaire de"
+        ],
+        "pinyin": "lái yuán yú"
+    },
+    "国民党": {
+        "traduction": [
+            "Guomindang ou Kuomintang",
+            "parti nationaliste",
+            "KMT"
+        ],
+        "pinyin": "guó mín dǎng"
+    },
+    "共产党": {
+        "traduction": [
+            "parti communiste (argot)"
+        ],
+        "pinyin": "gòng chǎn dǎng"
+    },
+    "五十步笑百步": {
+        "traduction": [
+            "(expr. idiom.) La pelle se moque du fourgon",
+            "50 pas se moquent de 100 pas",
+            "ne pas valoir beaucoup mieux",
+            "Le borgne se moque de l'aveugle",
+            "voir la paille dans l'oeil du voisin sans voir la poutre dans le sien"
+        ],
+        "pinyin": "wǔ shí bù xiào bǎi bù"
+    },
+    "文化补充": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "药到病除": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": "yào dào bìng chú"
+    },
+    "作业": {
+        "traduction": [
+            "devoir écrit",
+            "travail scolaire",
+            "opération",
+            "ouvrage"
+        ],
+        "pinyin": "zuò yè"
+    },
+    "衣服": {
+        "traduction": [
+            "vêtement",
+            "habit",
+            "habillement"
+        ],
+        "pinyin": "yī fu"
+    },
+    "客人": {
+        "traduction": [
+            "hôte",
+            "invité",
+            "client"
+        ],
+        "pinyin": "kè rén"
+    },
+    "医院": {
+        "traduction": [
+            "hôpital"
+        ],
+        "pinyin": "yī yuàn"
+    },
+    "现在": {
+        "traduction": [
+            "maintenant",
+            "actuellement",
+            "présentement"
+        ],
+        "pinyin": "xiàn zài"
+    },
+    "禹轩": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "快速": {
+        "traduction": [
+            "rapide",
+            "à grande vitesse"
+        ],
+        "pinyin": "kuài sù"
+    },
+    "嘲笑": {
+        "traduction": [
+            "se moquer de",
+            "rire de"
+        ],
+        "pinyin": "cháo xiào"
+    },
+    "答复": {
+        "traduction": [
+            "répondre",
+            "réponse"
+        ],
+        "pinyin": "dá fù"
+    },
+    "亲戚": {
+        "traduction": [
+            "membre de la famille",
+            "parent (n.m.)"
+        ],
+        "pinyin": "qīn qi"
+    },
+    "持续": {
+        "traduction": [
+            "continu",
+            "soutenu",
+            "durer",
+            "se maintenir",
+            "persister",
+            "durable",
+            "préservation"
+        ],
+        "pinyin": "chí xù"
+    },
+    "连续": {
+        "traduction": [
+            "continu",
+            "successif",
+            "sans interruption"
+        ],
+        "pinyin": "lián xù"
+    },
+    "水平": {
+        "traduction": [
+            "niveau",
+            "horizontal"
+        ],
+        "pinyin": "shuǐ píng"
+    },
+    "社交": {
+        "traduction": [
+            "relations sociales",
+            "activités sociales"
+        ],
+        "pinyin": "shè jiāo"
+    },
+    "交流": {
+        "traduction": [
+            "échanger",
+            "échange",
+            "alternatif (électricité)",
+            "communication",
+            "interaction",
+            "avoir un contact social (avec qqn)"
+        ],
+        "pinyin": "jiāo liú"
+    },
+    "寻找": {
+        "traduction": [
+            "chercher",
+            "être à la recherche de"
+        ],
+        "pinyin": "xún zhǎo"
+    },
+    "陌生": {
+        "traduction": [
+            "inconnu",
+            "étranger"
+        ],
+        "pinyin": "mò shēng"
+    },
+    "熟悉": {
+        "traduction": [
+            "bien connaitre",
+            "bien savoir",
+            "être familier"
+        ],
+        "pinyin": "shú xī"
+    },
+    "互动": {
+        "traduction": [
+            "interactif"
+        ],
+        "pinyin": "hù dòng"
+    },
+    "希望": {
+        "traduction": [
+            "espérer",
+            "désirer",
+            "espoir",
+            "espérance",
+            "promesse"
+        ],
+        "pinyin": "xī wàng"
+    },
+    "视频": {
+        "traduction": [
+            "vidéo"
+        ],
+        "pinyin": "shì pín"
+    },
+    "形容": {
+        "traduction": [
+            "décrire",
+            "qualifier"
+        ],
+        "pinyin": "xíng róng"
+    },
+    "能够": {
+        "traduction": [
+            "pouvoir",
+            "être capable de",
+            "en mesure de faire qch"
+        ],
+        "pinyin": "néng gòu"
+    },
+    "关键": {
+        "traduction": [
+            "crucial",
+            "décisif",
+            "clef"
+        ],
+        "pinyin": "guān jiàn"
+    },
+    "优质": {
+        "traduction": [
+            "de bonne qualité"
+        ],
+        "pinyin": "yōu zhì"
+    },
+    "劣质": {
+        "traduction": [
+            "de mauvaise qualité",
+            "infériorité"
+        ],
+        "pinyin": "liè zhì"
+    },
+    "解决": {
+        "traduction": [
+            "résoudre (un problème, un conflit...)",
+            "régler",
+            "liquider",
+            "trancher (un différend...)"
+        ],
+        "pinyin": "jiě jué"
+    },
+    "时期": {
+        "traduction": [
+            "période",
+            "étape"
+        ],
+        "pinyin": "shí qī"
+    },
+    "假期": {
+        "traduction": [
+            "congé",
+            "vacances"
+        ],
+        "pinyin": "jià qī"
+    },
+    "行业": {
+        "traduction": [
+            "industrie"
+        ],
+        "pinyin": "háng yè"
+    },
+    "职业": {
+        "traduction": [
+            "métier (activité)",
+            "profession"
+        ],
+        "pinyin": "zhí yè"
+    },
+    "城市": {
+        "traduction": [
+            "ville",
+            "cité"
+        ],
+        "pinyin": "chéng shì"
+    },
+    "农村": {
+        "traduction": [
+            "campagne",
+            "village"
+        ],
+        "pinyin": "nóng cūn"
+    },
+    "往返票": {
+        "traduction": [
+            "billet aller-retour"
+        ],
+        "pinyin": "wǎng fǎn piào"
+    },
+    "客户群": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "实习组": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "恰到好处": {
+        "traduction": [
+            "c'est parfait",
+            "c'est juste"
+        ],
+        "pinyin": "qià dào hǎo chù"
+    },
+    "你悠着点儿": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "爱一行做一行": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "做一行爱一行": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "万事开头难": {
+        "traduction": [
+            "(expr. idiom.) tout est difficile au début",
+            "toutes choses sont difficiles avant d'être faciles"
+        ],
+        "pinyin": "wàn shì kāi tóu nán"
+    },
+    "范围": {
+        "traduction": [
+            "limite",
+            "domaine",
+            "cadre"
+        ],
+        "pinyin": "fàn wéi"
+    },
+    "领域": {
+        "traduction": [
+            "territoire",
+            "domaine",
+            "zone"
+        ],
+        "pinyin": "lǐng yù"
+    },
+    "郊区": {
+        "traduction": [
+            "banlieue",
+            "suburb",
+            "faubourg"
+        ],
+        "pinyin": "jiāo qū"
+    },
+    "市区": {
+        "traduction": [
+            "région urbaine",
+            "zone urbaine"
+        ],
+        "pinyin": "shì qū"
+    },
+    "外省": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "正确": {
+        "traduction": [
+            "juste",
+            "correct"
+        ],
+        "pinyin": "zhèng què"
+    },
+    "错误": {
+        "traduction": [
+            "erroné",
+            "faux",
+            "erreur",
+            "faute"
+        ],
+        "pinyin": "cuò wù"
+    },
+    "往返": {
+        "traduction": [
+            "faire un aller et retour",
+            "va-et-vient",
+            "aller et retour",
+            "aller-retour"
+        ],
+        "pinyin": "wǎng fǎn"
+    },
+    "客户": {
+        "traduction": [
+            "client"
+        ],
+        "pinyin": "kè hù"
+    },
+    "群组": {
+        "traduction": [
+            "groupe"
+        ],
+        "pinyin": "qún zǔ"
+    },
+    "因此": {
+        "traduction": [
+            "donc",
+            "par conséquent",
+            "c'est pourquoi"
+        ],
+        "pinyin": "yīn cǐ"
+    },
+    "放弃": {
+        "traduction": [
+            "renoncer à",
+            "abandonner"
+        ],
+        "pinyin": "fàng qì"
+    },
+    "坚持": {
+        "traduction": [
+            "persévérer dans",
+            "insister sur",
+            "persister"
+        ],
+        "pinyin": "jiān chí"
+    },
+    "烧烤": {
+        "traduction": [
+            "barbecue"
+        ],
+        "pinyin": "shāo kǎo"
+    },
+    "黑熊": {
+        "traduction": [
+            "ours noir asiatique"
+        ],
+        "pinyin": "hēi xióng"
+    },
+    "他这个人面相很善良": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "中国的传统运动": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "放风筝": {
+        "traduction": [
+            "émission de chèques sans provision",
+            "fraude par tirage à découvert"
+        ],
+        "pinyin": null
+    },
+    "踢毽子": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "抖空竹": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "打太极拳": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "送给": {
+        "traduction": [
+            "offrir",
+            "donner",
+            "envoyer"
+        ],
+        "pinyin": "sòng gěi"
+    },
+    "余地": {
+        "traduction": [
+            "marge",
+            "place"
+        ],
+        "pinyin": "yú dì"
+    },
+    "必须": {
+        "traduction": [
+            "il faut (absolument)",
+            "il est nécessaire",
+            "il est requis"
+        ],
+        "pinyin": "bì xū"
+    },
+    "必需": {
+        "traduction": [
+            "indispensable",
+            "nécessaire"
+        ],
+        "pinyin": "bì xū"
+    },
+    "材料": {
+        "traduction": [
+            "matériau",
+            "document"
+        ],
+        "pinyin": "cái liào"
+    },
+    "面向": {
+        "traduction": [
+            "faire face à",
+            "se tourner vers"
+        ],
+        "pinyin": "miàn xiàng"
+    },
+    "面相": {
+        "traduction": [
+            "traits du visage",
+            "apparence",
+            "physionomie"
+        ],
+        "pinyin": "miàn xiàng"
+    },
+    "懂事": {
+        "traduction": [
+            "sage",
+            "raisonnable"
+        ],
+        "pinyin": "dǒng shì"
+    },
+    "礼貌": {
+        "traduction": [
+            "politesse",
+            "courtoisie",
+            "poli"
+        ],
+        "pinyin": "lǐ mào"
+    },
+    "福气": {
+        "traduction": [
+            "bonne fortune",
+            "bonne chance"
+        ],
+        "pinyin": "fú qi"
+    },
+    "善良": {
+        "traduction": [
+            "bon"
+        ],
+        "pinyin": "shàn liáng"
+    },
+    "发现": {
+        "traduction": [
+            "découvrir",
+            "faire une découverte",
+            "se rendre compte",
+            "s'apercevoir",
+            "paraitre au grand jour",
+            "se manifester"
+        ],
+        "pinyin": "fā xiàn"
+    },
+    "有效": {
+        "traduction": [
+            "efficace",
+            "valide"
+        ],
+        "pinyin": "yǒu xiào"
+    },
+    "绝对": {
+        "traduction": [
+            "absolu",
+            "absolument"
+        ],
+        "pinyin": "jué duì"
+    },
+    "美丽": {
+        "traduction": [
+            "beau",
+            "belle"
+        ],
+        "pinyin": "měi lì"
+    },
+    "动人": {
+        "traduction": [
+            "émouvant",
+            "captivant",
+            "touchant"
+        ],
+        "pinyin": "dòng rén"
+    },
+    "传说": {
+        "traduction": [
+            "légende",
+            "folklore",
+            "On dit que..."
+        ],
+        "pinyin": "chuán shuō"
+    },
+    "仙女": {
+        "traduction": [
+            "fée",
+            "immortelle"
+        ],
+        "pinyin": "xiān nǚ"
+    },
+    "神仙": {
+        "traduction": [
+            "immortel taoïste"
+        ],
+        "pinyin": "shén xiān"
+    },
+    "勤劳": {
+        "traduction": [
+            "travailleur (adj.)",
+            "laborieux",
+            "diligent"
+        ],
+        "pinyin": "qín láo"
+    },
+    "结婚": {
+        "traduction": [
+            "se marier"
+        ],
+        "pinyin": "jié hūn"
+    },
+    "并且": {
+        "traduction": [
+            "en outre",
+            "de plus",
+            "par ailleurs",
+            "mais aussi"
+        ],
+        "pinyin": "bìng qiě"
+    },
+    "出生": {
+        "traduction": [
+            "naitre",
+            "être né"
+        ],
+        "pinyin": "chū shēng"
+    },
+    "允许": {
+        "traduction": [
+            "permettre",
+            "admettre",
+            "autoriser"
+        ],
+        "pinyin": "yǔn xǔ"
+    },
+    "心疼": {
+        "traduction": [
+            "chérir",
+            "se désoler",
+            "se faire du souci",
+            "regretter",
+            "être bouleversé",
+            "chagrin",
+            "peine"
+        ],
+        "pinyin": "xīn téng"
+    },
+    "踩踏": {
+        "traduction": [
+            "piétiner",
+            "fouler aux pieds"
+        ],
+        "pinyin": "cǎi tà"
+    },
+    "喜鹊": {
+        "traduction": [
+            "pie bavarde"
+        ],
+        "pinyin": "xǐ què"
+    },
+    "鹊桥": {
+        "traduction": [
+            "Le pont construit par les pies"
+        ],
+        "pinyin": "què qiáo"
+    },
+    "相聚": {
+        "traduction": [
+            "se réunir",
+            "s'assembler"
+        ],
+        "pinyin": "xiāng jù"
+    },
+    "传统": {
+        "traduction": [
+            "tradition",
+            "traditionnel",
+            "conventionnel"
+        ],
+        "pinyin": "chuán tǒng"
+    },
+    "主动": {
+        "traduction": [
+            "prendre l'initiative",
+            "spontané"
+        ],
+        "pinyin": "zhǔ dòng"
+    },
+    "被动": {
+        "traduction": [
+            "passif"
+        ],
+        "pinyin": "bèi dòng"
+    },
+    "网球": {
+        "traduction": [
+            "tennis"
+        ],
+        "pinyin": "wǎng qiú"
+    },
+    "剑术": {
+        "traduction": [
+            "escrime"
+        ],
+        "pinyin": "jiàn shù"
+    },
+    "给予": {
+        "traduction": [
+            "donner",
+            "accorder",
+            "conférer"
+        ],
+        "pinyin": "jǐ yǔ"
+    },
+    "当今": {
+        "traduction": [
+            "maintenant",
+            "aujourd'hui",
+            "de nos jours"
+        ],
+        "pinyin": "dāng jīn"
+    },
+    "如今": {
+        "traduction": [
+            "maintenant",
+            "aujourd'hui",
+            "à présent"
+        ],
+        "pinyin": "rú jīn"
+    },
+    "道路": {
+        "traduction": [
+            "route",
+            "chemin"
+        ],
+        "pinyin": "dào lù"
+    },
+    "道理": {
+        "traduction": [
+            "principe",
+            "raison",
+            "argument",
+            "morale (de l'histoire)"
+        ],
+        "pinyin": "dào li"
+    },
+    "诚实": {
+        "traduction": [
+            "véracité",
+            "véridicté",
+            "vérité",
+            "honnête",
+            "honnêteté"
+        ],
+        "pinyin": "chéng shí"
+    },
+    "博学": {
+        "traduction": [
+            "érudit",
+            "savant"
+        ],
+        "pinyin": "bó xué"
+    },
+    "专家": {
+        "traduction": [
+            "expert",
+            "spécialiste"
+        ],
+        "pinyin": "zhuān jiā"
+    },
+    "法式滚球": {
+        "traduction": [
+            "pétanque (française)"
+        ],
+        "pinyin": "fà shì gǔn qiú"
+    },
+    "以泪洗面": {
+        "traduction": [
+            "(expr. idiom.) se baigner le visage de larmes"
+        ],
+        "pinyin": "yǐ lèi xǐ miàn"
+    },
+    "显而易见": {
+        "traduction": [
+            "(expr. idiom.) évidemment",
+            "manifestement"
+        ],
+        "pinyin": "xiǎn ér yì jiàn"
+    },
+    "小富即安": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "人际关系": {
+        "traduction": [
+            "relations entre personnes"
+        ],
+        "pinyin": "rén jì guān xì"
+    },
+    "国际航班": {
+        "traduction": [
+            "vol international"
+        ],
+        "pinyin": "guó jì háng bān"
+    },
+    "城际火车": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "瘸子走不稳好路": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "一步走错步步错": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "国际象棋": {
+        "traduction": [
+            "échecs"
+        ],
+        "pinyin": "guó jì xiàng qí"
+    },
+    "中国象棋": {
+        "traduction": [
+            "Xiangqi"
+        ],
+        "pinyin": "zhōng guó xiàng qí"
+    },
+    "来": {
+        "traduction": [
+            "venir",
+            "arriver",
+            "prochain",
+            "suivant",
+            "environ"
+        ],
+        "pinyin": "lái"
+    },
+    "往": {
+        "traduction": [
+            "ancien",
+            "passé",
+            "aller",
+            "se rendre",
+            "en direction de",
+            "vers"
+        ],
+        "pinyin": "wǎng"
+    },
+    "黑": {
+        "traduction": [
+            "noir",
+            "sombre",
+            "secret"
+        ],
+        "pinyin": "hēi"
+    },
+    "高": {
+        "traduction": [
+            "haut",
+            "élevé",
+            "grand",
+            "supérieur"
+        ],
+        "pinyin": "gāo"
+    },
+    "后": {
+        "traduction": [
+            "arrière",
+            "descendant",
+            "descendance",
+            "génération future",
+            "reine",
+            "derrière",
+            "après",
+            "ensuite"
+        ],
+        "pinyin": "hòu"
+    },
+    "左": {
+        "traduction": [
+            "gauche",
+            "opposé"
+        ],
+        "pinyin": "zuǒ"
+    },
+    "困难": {
+        "traduction": [
+            "difficile",
+            "difficulté"
+        ],
+        "pinyin": "kùn nan"
+    },
+    "开始": {
+        "traduction": [
+            "commencement",
+            "début",
+            "commencer",
+            "débuter"
+        ],
+        "pinyin": "kāi shǐ"
+    },
+    "收获": {
+        "traduction": [
+            "récolte",
+            "résultat",
+            "récolter",
+            "recueillir"
+        ],
+        "pinyin": "shōu huò"
+    },
+    "收益": {
+        "traduction": [
+            "profit"
+        ],
+        "pinyin": "shōu yì"
+    },
+    "享受": {
+        "traduction": [
+            "jouir de"
+        ],
+        "pinyin": "xiǎng shòu"
+    },
+    "等待": {
+        "traduction": [
+            "attendre"
+        ],
+        "pinyin": "děng dài"
+    },
+    "平且": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "意味": {
+        "traduction": [
+            "sens",
+            "signification",
+            "gout",
+            "saveur",
+            "charme",
+            "intérêt",
+            "significatif"
+        ],
+        "pinyin": "yì wèi"
+    },
+    "实现": {
+        "traduction": [
+            "accomplir",
+            "réaliser (un objectif)",
+            "atteindre (un but)"
+        ],
+        "pinyin": "shí xiàn"
+    },
+    "实践": {
+        "traduction": [
+            "mettre en pratique"
+        ],
+        "pinyin": "shí jiàn"
+    },
+    "把手": {
+        "traduction": [
+            "poignée",
+            "manche"
+        ],
+        "pinyin": "bǎ shǒu"
+    },
+    "划分": {
+        "traduction": [
+            "diviser",
+            "distinguer"
+        ],
+        "pinyin": "huà fēn"
+    },
+    "组员": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "发展": {
+        "traduction": [
+            "développer",
+            "étendre",
+            "progresser"
+        ],
+        "pinyin": "fā zhǎn"
+    },
+    "决心": {
+        "traduction": [
+            "résolution",
+            "se déterminer à"
+        ],
+        "pinyin": "jué xīn"
+    },
+    "永远": {
+        "traduction": [
+            "pour toujours",
+            "éternellement"
+        ],
+        "pinyin": "yǒng yuǎn"
+    },
+    "停止": {
+        "traduction": [
+            "arrêter",
+            "suspendre"
+        ],
+        "pinyin": "tíng zhǐ"
+    },
+    "情况": {
+        "traduction": [
+            "situation",
+            "circonstance",
+            "condition",
+            "cause"
+        ],
+        "pinyin": "qíng kuàng"
+    },
+    "阶段": {
+        "traduction": [
+            "étape",
+            "phase"
+        ],
+        "pinyin": "jiē duàn"
+    },
+    "偶尔": {
+        "traduction": [
+            "de temps en temps",
+            "rarement",
+            "occasionnellement",
+            "quelquefois"
+        ],
+        "pinyin": "ǒu ěr"
+    },
+    "偶然": {
+        "traduction": [
+            "fortuit",
+            "accidentel"
+        ],
+        "pinyin": "ǒu rán"
+    },
+    "总共": {
+        "traduction": [
+            "en tout",
+            "au total"
+        ],
+        "pinyin": "zǒng gòng"
+    },
+    "完整": {
+        "traduction": [
+            "complet",
+            "intégral"
+        ],
+        "pinyin": "wán zhěng"
+    },
+    "完成": {
+        "traduction": [
+            "compléter",
+            "accomplir",
+            "finir",
+            "achever",
+            "mener à sa fin"
+        ],
+        "pinyin": "wán chéng"
+    },
+    "锻炼": {
+        "traduction": [
+            "s'entrainer",
+            "s'exercer",
+            "exercer",
+            "tremper",
+            "aguerrir",
+            "renforcer",
+            "rendre plus solide"
+        ],
+        "pinyin": "duàn liàn"
+    },
+    "交往": {
+        "traduction": [
+            "contact social",
+            "fréquentation"
+        ],
+        "pinyin": "jiāo wǎng"
+    },
+    "心痛": {
+        "traduction": [
+            "chagrin",
+            "douleurs cardiaques"
+        ],
+        "pinyin": "xīn tòng"
+    },
+    "乌鸦": {
+        "traduction": [
+            "corbeau"
+        ],
+        "pinyin": "wū yā"
+    },
+    "抖动": {
+        "traduction": [
+            "trembler",
+            "gigue (électronique)"
+        ],
+        "pinyin": "dǒu dòng"
+    },
+    "滚蛋": {
+        "traduction": [
+            "Casse-toi !",
+            "Hors de ma vue !",
+            "Dégage !"
+        ],
+        "pinyin": "gǔn dàn"
+    },
+    "洗脸": {
+        "traduction": [
+            "se laver le visage"
+        ],
+        "pinyin": "xǐ liǎn"
+    },
+    "谨慎": {
+        "traduction": [
+            "prudent",
+            "discret"
+        ],
+        "pinyin": "jǐn shèn"
+    },
+    "避免": {
+        "traduction": [
+            "éviter",
+            "se soustraire"
+        ],
+        "pinyin": "bì miǎn"
+    },
+    "格外": {
+        "traduction": [
+            "particulièrement",
+            "spécialement"
+        ],
+        "pinyin": "gé wài"
+    },
+    "反正": {
+        "traduction": [
+            "en tout cas",
+            "quand même",
+            "n'importe comment",
+            "de toute façon",
+            "en tout état de cause",
+            "malgré tout",
+            "quoi qu'il en soit"
+        ],
+        "pinyin": "fǎn zhèng"
+    },
+    "竹子": {
+        "traduction": [
+            "bambou"
+        ],
+        "pinyin": "zhú zi"
+    },
+    "筷子": {
+        "traduction": [
+            "baguettes (couverts)"
+        ],
+        "pinyin": "kuài zi"
+    },
+    "快乐": {
+        "traduction": [
+            "heureux",
+            "joyeux"
+        ],
+        "pinyin": "kuài lè"
+    },
+    "方块": {
+        "traduction": [
+            "cube",
+            "bloc",
+            "carré",
+            "rectangle",
+            "carreau (couleur de carte)"
+        ],
+        "pinyin": "fāng kuài"
+    },
+    "象棋": {
+        "traduction": [
+            "échecs chinois",
+            "xiangqi"
+        ],
+        "pinyin": "xiàng qí"
+    },
+    "打交道": {
+        "traduction": [
+            "avoir affaire à qqn"
+        ],
+        "pinyin": "dǎ jiāo dào"
+    },
+    "或多或少": {
+        "traduction": [
+            "peu"
+        ],
+        "pinyin": "huò duō huò shǎo"
+    },
+    "妖魔鬼怪": {
+        "traduction": [
+            "monstres et fantômes"
+        ],
+        "pinyin": "yāo mó guǐ guài"
+    },
+    "一步下错满盘皆输": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "文化补充站得高看得远": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "团聚": {
+        "traduction": [
+            "se réunir de nouveau",
+            "se revoir",
+            "se rassembler"
+        ],
+        "pinyin": "tuán jù"
+    },
+    "准备": {
+        "traduction": [
+            "préparer",
+            "s'apprêter à",
+            "projeter",
+            "compter faire qch"
+        ],
+        "pinyin": "zhǔn bèi"
+    },
+    "认真": {
+        "traduction": [
+            "prendre au sérieux",
+            "sérieux",
+            "consciencieux"
+        ],
+        "pinyin": "rèn zhēn"
+    },
+    "随意": {
+        "traduction": [
+            "selon son bon plaisir"
+        ],
+        "pinyin": "suí yì"
+    },
+    "无趣": {
+        "traduction": [
+            "mièvre",
+            "insipide"
+        ],
+        "pinyin": "wú qù"
+    },
+    "有趣": {
+        "traduction": [
+            "intéressant",
+            "amusant"
+        ],
+        "pinyin": "yǒu qù"
+    },
+    "广阔": {
+        "traduction": [
+            "vaste",
+            "étendu"
+        ],
+        "pinyin": "guǎng kuò"
+    },
+    "考虑": {
+        "traduction": [
+            "réfléchir",
+            "envisager",
+            "considérer",
+            "penser",
+            "réflexion"
+        ],
+        "pinyin": "kǎo lǜ"
+    },
+    "方面": {
+        "traduction": [
+            "côté",
+            "aspect",
+            "part",
+            "égard"
+        ],
+        "pinyin": "fāng miàn"
+    },
+    "全面": {
+        "traduction": [
+            "total",
+            "général"
+        ],
+        "pinyin": "quán miàn"
+    },
+    "方向": {
+        "traduction": [
+            "direction",
+            "orientation"
+        ],
+        "pinyin": "fāng xiàng"
+    },
+    "工具": {
+        "traduction": [
+            "outil"
+        ],
+        "pinyin": "gōng jù"
+    },
+    "明确": {
+        "traduction": [
+            "préciser",
+            "précis",
+            "explicite"
+        ],
+        "pinyin": "míng què"
+    },
+    "确定": {
+        "traduction": [
+            "déterminé",
+            "fixé",
+            "déterminer",
+            "définir"
+        ],
+        "pinyin": "què dìng"
+    },
+    "考试": {
+        "traduction": [
+            "examen",
+            "épreuve"
+        ],
+        "pinyin": "kǎo shì"
+    },
+    "录用": {
+        "traduction": [
+            "engager"
+        ],
+        "pinyin": "lù yòng"
+    },
+    "语段": {
+        "traduction": [
+            "discours"
+        ],
+        "pinyin": "yǔ duàn"
+    },
+    "背景": {
+        "traduction": [
+            "arrière-plan",
+            "fond",
+            "contexte"
+        ],
+        "pinyin": "bèi jǐng"
+    },
+    "跑题": {
+        "traduction": [
+            "faire une digression",
+            "s'écarter du sujet"
+        ],
+        "pinyin": "pǎo tí"
+    },
+    "损坏": {
+        "traduction": [
+            "endommager",
+            "abimer"
+        ],
+        "pinyin": "sǔn huài"
+    },
+    "犯错误": {
+        "traduction": [
+            "faire des erreurs"
+        ],
+        "pinyin": "fàn cuò wù"
+    },
+    "犯法法律": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "犯罪": {
+        "traduction": [
+            "commettre un crime, une offense",
+            "crime",
+            "offense"
+        ],
+        "pinyin": "fàn zuì"
+    },
+    "犯事": {
+        "traduction": [
+            "enfreindre la loi",
+            "commettre un crime"
+        ],
+        "pinyin": "fàn shì"
+    },
+    "八月底": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "九月初": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "两个人": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "我们俩": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "某个人": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "某个地方": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "某个时候": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "俄罗斯方块": {
+        "traduction": [
+            "Tetris (jeu vidéo)"
+        ],
+        "pinyin": "é luó sī fāng kuài"
+    },
+    "古诗": {
+        "traduction": [
+            "poème chinois classique"
+        ],
+        "pinyin": "gǔ shī"
+    },
+    "橙色都忘了": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "犯错": {
+        "traduction": [
+            "commettre une faute",
+            "faire une erreur"
+        ],
+        "pinyin": "fàn cuò"
+    },
+    "九月中": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "九月上旬": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "九月中旬": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "九月下旬": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "独一无二": {
+        "traduction": [
+            "(expr. idiom.) unique en son genre",
+            "hors pair",
+            "sans pareil"
+        ],
+        "pinyin": "dú yī wú èr"
+    },
+    "唯一": {
+        "traduction": [
+            "unique",
+            "seul"
+        ],
+        "pinyin": "wéi yī"
+    },
+    "不可替代": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "代替": {
+        "traduction": [
+            "remplacer",
+            "substituer",
+            "suppléer",
+            "tenir lieu de"
+        ],
+        "pinyin": "dài tì"
+    },
+    "伤害": {
+        "traduction": [
+            "blesser",
+            "faire du mal à",
+            "plaie"
+        ],
+        "pinyin": "shāng hài"
+    },
+    "明显": {
+        "traduction": [
+            "évident",
+            "manifeste (adj.)"
+        ],
+        "pinyin": "míng xiǎn"
+    },
+    "合适": {
+        "traduction": [
+            "convenable",
+            "approprié",
+            "adapté"
+        ],
+        "pinyin": "hé shì"
+    },
+    "离开": {
+        "traduction": [
+            "quitter",
+            "se séparer",
+            "partir de"
+        ],
+        "pinyin": "lí kāi"
+    },
+    "一旦": {
+        "traduction": [
+            "une fois que",
+            "aussitôt que",
+            "si jamais",
+            "en un jour"
+        ],
+        "pinyin": "yī dàn"
+    },
+    "改正": {
+        "traduction": [
+            "corriger",
+            "rectifier"
+        ],
+        "pinyin": "gǎi zhèng"
+    },
+    "一直": {
+        "traduction": [
+            "toujours",
+            "en continu",
+            "sans arrêt",
+            "tout droit",
+            "directement",
+            "d'une traite",
+            "sans interruption"
+        ],
+        "pinyin": "yī zhí"
+    },
+    "遗憾": {
+        "traduction": [
+            "regret"
+        ],
+        "pinyin": "yí hàn"
+    },
+    "损害": {
+        "traduction": [
+            "blessure",
+            "lésion"
+        ],
+        "pinyin": "sǔn hài"
+    },
+    "信誉": {
+        "traduction": [
+            "prestige",
+            "distinction",
+            "réputation",
+            "confiance"
+        ],
+        "pinyin": "xìn yù"
+    },
+    "原谅": {
+        "traduction": [
+            "excuser",
+            "pardonner"
+        ],
+        "pinyin": "yuán liàng"
+    },
+    "特别": {
+        "traduction": [
+            "particulièrement",
+            "spécialement",
+            "particulier",
+            "spécial"
+        ],
+        "pinyin": "tè bié"
+    },
+    "管理": {
+        "traduction": [
+            "gérer",
+            "administrer",
+            "superviser",
+            "administration",
+            "management",
+            "régulation"
+        ],
+        "pinyin": "guǎn lǐ"
+    },
+    "算盘珠子": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "拨动": {
+        "traduction": [
+            "remuer",
+            "ébranler",
+            "agiter",
+            "déplacer latéralement"
+        ],
+        "pinyin": "bō dòng"
+    },
+    "性格": {
+        "traduction": [
+            "caractère (personnalité)",
+            "tempérament"
+        ],
+        "pinyin": "xìng gé"
+    },
+    "早晨": {
+        "traduction": [
+            "matinée",
+            "tôt le matin",
+            "de bonne heure"
+        ],
+        "pinyin": "zǎo chén"
+    },
+    "傍晚": {
+        "traduction": [
+            "vers le soir",
+            "à l'approche du soir",
+            "la nuit tombée",
+            "au crépuscule"
+        ],
+        "pinyin": "bàng wǎn"
+    },
+    "深夜": {
+        "traduction": [
+            "tard dans la nuit",
+            "heure avancée de la nuit",
+            "nuit profonde"
+        ],
+        "pinyin": "shēn yè"
+    },
+    "依靠": {
+        "traduction": [
+            "s'appuyer",
+            "compter sur",
+            "appui",
+            "soutien"
+        ],
+        "pinyin": "yī kào"
+    },
+    "文学": {
+        "traduction": [
+            "littérature"
+        ],
+        "pinyin": "wén xué"
+    },
+    "诗歌": {
+        "traduction": [
+            "poésie"
+        ],
+        "pinyin": "shī gē"
+    },
+    "登山": {
+        "traduction": [
+            "escalader une montagne",
+            "alpinisme",
+            "escalade"
+        ],
+        "pinyin": "dēng shān"
+    },
+    "欲望": {
+        "traduction": [
+            "désir"
+        ],
+        "pinyin": "yù wàng"
+    },
+    "公寓": {
+        "traduction": [
+            "appartement"
+        ],
+        "pinyin": "gōng yù"
+    },
+    "别墅": {
+        "traduction": [
+            "villa"
+        ],
+        "pinyin": "bié shù"
+    },
+    "工资": {
+        "traduction": [
+            "salaire",
+            "salarial"
+        ],
+        "pinyin": "gōng zī"
+    },
+    "大约": {
+        "traduction": [
+            "approximativement",
+            "environ",
+            "en gros",
+            "à peu près",
+            "probablement"
+        ],
+        "pinyin": "dà yuē"
+    },
+    "大概": {
+        "traduction": [
+            "environ",
+            "à peu près",
+            "probablement",
+            "sans doute",
+            "général",
+            "approximatif",
+            "aperçu",
+            "idée générale"
+        ],
+        "pinyin": "dà gài"
+    },
+    "近郊": {
+        "traduction": [
+            "environs",
+            "alentours"
+        ],
+        "pinyin": "jìn jiāo"
+    },
+    "远郊": {
+        "traduction": [
+            "grande banlieue"
+        ],
+        "pinyin": "yuǎn jiāo"
+    },
+    "担保人": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "教育部": {
+        "traduction": [
+            "Ministère de l'Éducation"
+        ],
+        "pinyin": "jiào yù bù"
+    },
+    "大使馆": {
+        "traduction": [
+            "ambassade"
+        ],
+        "pinyin": "dà shǐ guǎn"
+    },
+    "校长": {
+        "traduction": [
+            "directeur d'école",
+            "proviseur",
+            "recteur"
+        ],
+        "pinyin": "xiào zhǎng"
+    },
+    "广场": {
+        "traduction": [
+            "place (voie)"
+        ],
+        "pinyin": "guǎng chǎng"
+    },
+    "助教": {
+        "traduction": [
+            "professeur assistant"
+        ],
+        "pinyin": "zhù jiào"
+    },
+    "租金": {
+        "traduction": [
+            "loyer",
+            "location"
+        ],
+        "pinyin": "zū jīn"
+    },
+    "报税": {
+        "traduction": [
+            "déclarer des biens, des marchandises"
+        ],
+        "pinyin": "bào shuì"
+    },
+    "房东": {
+        "traduction": [
+            "propriétaire (d'un logement loué)"
+        ],
+        "pinyin": "fáng dōng"
+    },
+    "租客": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": "zū kè"
+    },
+    "单间": {
+        "traduction": [
+            "chambre simple"
+        ],
+        "pinyin": "dān jiān"
+    },
+    "套房": {
+        "traduction": [
+            "appartement"
+        ],
+        "pinyin": "tào fáng"
+    },
+    "配套": {
+        "traduction": [
+            "combiner",
+            "assembler"
+        ],
+        "pinyin": "pèi tào"
+    },
+    "平米": {
+        "traduction": [
+            "mètre carré (m2)"
+        ],
+        "pinyin": "píng mǐ"
+    },
+    "固定": {
+        "traduction": [
+            "fixe",
+            "régulier",
+            "fixer"
+        ],
+        "pinyin": "gù dìng"
+    },
+    "类型": {
+        "traduction": [
+            "type"
+        ],
+        "pinyin": "lèi xíng"
+    },
+    "政府": {
+        "traduction": [
+            "gouvernement",
+            "administration"
+        ],
+        "pinyin": "zhèng fǔ"
+    },
+    "商校": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "正式员工": {
+        "traduction": [
+            "employé régulier"
+        ],
+        "pinyin": "zhèng shì yuán gōng"
+    },
+    "中秋节月亮节": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "文化补充三人行必有我师": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "2背诵登鹳雀楼这首诗": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "算盘": {
+        "traduction": [
+            "boulier"
+        ],
+        "pinyin": "suàn pán"
+    },
+    "水珠": {
+        "traduction": [
+            "goutte d'eau"
+        ],
+        "pinyin": "shuǐ zhū"
+    },
+    "翻开": {
+        "traduction": [
+            "(s') ouvrir"
+        ],
+        "pinyin": "fān kāi"
+    },
+    "邮票": {
+        "traduction": [
+            "timbre (poste)"
+        ],
+        "pinyin": "yóu piào"
+    },
+    "了解": {
+        "traduction": [
+            "comprendre",
+            "se rendre compte",
+            "réaliser"
+        ],
+        "pinyin": "liǎo jiě"
+    },
+    "顶峰": {
+        "traduction": [
+            "sommet",
+            "cime",
+            "apogée",
+            "comble"
+        ],
+        "pinyin": "dǐng fēng"
+    },
+    "衬衣": {
+        "traduction": [
+            "linge de corps",
+            "sous-vêtement",
+            "chemise"
+        ],
+        "pinyin": "chèn yī"
+    },
+    "十二生肖鼠": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "牛": {
+        "traduction": [
+            "boeuf",
+            "buffle",
+            "vache",
+            "(argot) fantastique"
+        ],
+        "pinyin": "niú"
+    },
+    "虎": {
+        "traduction": [
+            "tigre"
+        ],
+        "pinyin": "hǔ"
+    },
+    "兔": {
+        "traduction": [
+            "lapin"
+        ],
+        "pinyin": "tù"
+    },
+    "龙": {
+        "traduction": [
+            "dragon",
+            "impérial",
+            "(nom de famille)",
+            "(212e radical)"
+        ],
+        "pinyin": "lóng"
+    },
+    "蛇": {
+        "traduction": [
+            "serpent"
+        ],
+        "pinyin": "shé"
+    },
+    "马": {
+        "traduction": [
+            "cheval",
+            "cavalier (échecs)",
+            "(nom de famille)",
+            "(187e radical)"
+        ],
+        "pinyin": "mǎ"
+    },
+    "羊": {
+        "traduction": [
+            "mouton",
+            "chèvre"
+        ],
+        "pinyin": "yáng"
+    },
+    "猴": {
+        "traduction": [
+            "singe"
+        ],
+        "pinyin": "hóu"
+    },
+    "鸡": {
+        "traduction": [
+            "poule",
+            "coq",
+            "poulet",
+            "volaille"
+        ],
+        "pinyin": "jī"
+    },
+    "狗": {
+        "traduction": [
+            "chien",
+            "maudit"
+        ],
+        "pinyin": "gǒu"
+    },
+    "猪": {
+        "traduction": [
+            "porc",
+            "cochon"
+        ],
+        "pinyin": "zhū"
+    },
+    "这件事情明显是他做的啊": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "本人名叫林禹轩": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "文化补充不可同日而语": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "尺寸": {
+        "traduction": [
+            "mesure",
+            "dimension",
+            "taille"
+        ],
+        "pinyin": "chǐ cun"
+    },
+    "粮食": {
+        "traduction": [
+            "céréale",
+            "produit alimentaire de base",
+            "provisions",
+            "grains"
+        ],
+        "pinyin": "liáng shi"
+    },
+    "普遍": {
+        "traduction": [
+            "universel",
+            "général",
+            "populaire",
+            "commun",
+            "communément"
+        ],
+        "pinyin": "pǔ biàn"
+    },
+    "标准": {
+        "traduction": [
+            "norme",
+            "standard",
+            "critère",
+            "idéal (n.)"
+        ],
+        "pinyin": "biāo zhǔn"
+    },
+    "掉落": {
+        "traduction": [
+            "tomber",
+            "s'effondrer"
+        ],
+        "pinyin": "diào luò"
+    },
+    "甚至": {
+        "traduction": [
+            "même",
+            "voire",
+            "à tel point que"
+        ],
+        "pinyin": "shèn zhì"
+    },
+    "耽误": {
+        "traduction": [
+            "retarder",
+            "compromettre",
+            "tarder",
+            "trainer en longueur"
+        ],
+        "pinyin": "dān wu"
+    },
+    "抢救": {
+        "traduction": [
+            "se précipiter au secours de",
+            "sauver"
+        ],
+        "pinyin": "qiǎng jiù"
+    },
+    "缓解": {
+        "traduction": [
+            "atténuer",
+            "adoucir"
+        ],
+        "pinyin": "huǎn jiě"
+    },
+    "抵抗": {
+        "traduction": [
+            "résister (à)"
+        ],
+        "pinyin": "dǐ kàng"
+    },
+    "主次不分": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "主次分明": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "直接引用": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "间接引用": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "实际": {
+        "traduction": [
+            "réel",
+            "réalité",
+            "réaliste",
+            "pratique",
+            "concret"
+        ],
+        "pinyin": "shí jì"
+    },
+    "愿意": {
+        "traduction": [
+            "vouloir",
+            "avoir envie de",
+            "souhaiter",
+            "désirer",
+            "vouloir bien",
+            "être prêt à"
+        ],
+        "pinyin": "yuàn yì"
+    },
+    "角度": {
+        "traduction": [
+            "angle",
+            "point de vue"
+        ],
+        "pinyin": "jiǎo dù"
+    },
+    "对手": {
+        "traduction": [
+            "adversaire",
+            "concurrent",
+            "rival"
+        ],
+        "pinyin": "duì shǒu"
+    },
+    "敌人": {
+        "traduction": [
+            "ennemi",
+            "adversaire"
+        ],
+        "pinyin": "dí rén"
+    },
+    "不言自明": {
+        "traduction": [
+            "(expr. idiom.) allant de soi",
+            "ne nécessitant aucune explication",
+            "évident"
+        ],
+        "pinyin": "bù yán zì míng"
+    },
+    "中国人结婚时穿什么": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "文化补充贵人多忘事": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "转型": {
+        "traduction": [
+            "transformation",
+            "reconversion",
+            "transformer"
+        ],
+        "pinyin": "zhuǎn xíng"
+    },
+    "培养": {
+        "traduction": [
+            "élever",
+            "éduquer",
+            "cultiver"
+        ],
+        "pinyin": "péi yǎng"
+    },
+    "观念": {
+        "traduction": [
+            "idée",
+            "conception"
+        ],
+        "pinyin": "guān niàn"
+    },
+    "申请": {
+        "traduction": [
+            "se porter candidat pour",
+            "présenter une demande de",
+            "s'inscrire",
+            "souscrire",
+            "demande",
+            "requête"
+        ],
+        "pinyin": "shēn qǐng"
+    },
+    "产生": {
+        "traduction": [
+            "produire",
+            "donner naissance"
+        ],
+        "pinyin": "chǎn shēng"
+    },
+    "生产": {
+        "traduction": [
+            "produire",
+            "fabriquer",
+            "donner naissance à un enfant",
+            "production"
+        ],
+        "pinyin": "shēng chǎn"
+    },
+    "总是": {
+        "traduction": [
+            "(être) toujours",
+            "en tout cas",
+            "de toute façon",
+            "en fin de compte",
+            "en somme",
+            "somme toute"
+        ],
+        "pinyin": "zǒng shì"
+    },
+    "防守": {
+        "traduction": [
+            "défendre",
+            "protéger",
+            "défense"
+        ],
+        "pinyin": "fáng shǒu"
+    },
+    "陪练": {
+        "traduction": [
+            "partenaire de formation"
+        ],
+        "pinyin": "péi liàn"
+    },
+    "基础": {
+        "traduction": [
+            "base",
+            "de base",
+            "fondation (construction)"
+        ],
+        "pinyin": "jī chǔ"
+    },
+    "灵活": {
+        "traduction": [
+            "agile",
+            "prompt",
+            "souple"
+        ],
+        "pinyin": "líng huó"
+    },
+    "打败": {
+        "traduction": [
+            "vaincre",
+            "battre",
+            "se faire battre",
+            "être vaincu"
+        ],
+        "pinyin": "dǎ bài"
+    },
+    "争取": {
+        "traduction": [
+            "lutter pour",
+            "tâcher de",
+            "gagner sur",
+            "s'efforcer de"
+        ],
+        "pinyin": "zhēng qǔ"
+    },
+    "表示": {
+        "traduction": [
+            "montrer",
+            "exprimer",
+            "manifester",
+            "expression",
+            "manifestation",
+            "témoignage"
+        ],
+        "pinyin": "biǎo shì"
+    },
+    "讽刺": {
+        "traduction": [
+            "se moquer",
+            "satire",
+            "ironie"
+        ],
+        "pinyin": "fěng cì"
+    },
+    "末尾": {
+        "traduction": [
+            "fin",
+            "dernière partie"
+        ],
+        "pinyin": "mò wěi"
+    },
+    "起初": {
+        "traduction": [
+            "au début",
+            "d'abord"
+        ],
+        "pinyin": "qǐ chū"
+    },
+    "宿舍": {
+        "traduction": [
+            "chambre",
+            "dortoir"
+        ],
+        "pinyin": "sù shè"
+    },
+    "记叙文的六个要素时间": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "地点": {
+        "traduction": [
+            "lieu",
+            "endroit"
+        ],
+        "pinyin": "dì diǎn"
+    },
+    "人物": {
+        "traduction": [
+            "personne (n.f.)",
+            "personnage",
+            "protagoniste"
+        ],
+        "pinyin": "rén wù"
+    },
+    "事情的起因经过结果": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "文化补充习惯成自然": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "是不是你等它会自己管": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "哎呀你真的是贵人多忘事": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "宾客": {
+        "traduction": [
+            "invité",
+            "hôte"
+        ],
+        "pinyin": "bīn kè"
+    },
+    "婚纱": {
+        "traduction": [
+            "robe de mariée"
+        ],
+        "pinyin": "hūn shā"
+    },
+    "赚钱": {
+        "traduction": [
+            "gagner de l'argent",
+            "rémunérer",
+            "rentable"
+        ],
+        "pinyin": "zhuàn qián"
+    },
+    "婚宴": {
+        "traduction": [
+            "noce",
+            "banquet de mariage"
+        ],
+        "pinyin": "hūn yàn"
+    },
+    "盛大": {
+        "traduction": [
+            "grandiose",
+            "magnifique"
+        ],
+        "pinyin": "shèng dà"
+    },
+    "暴雨": {
+        "traduction": [
+            "pluie torrentielle",
+            "averse",
+            "déluge"
+        ],
+        "pinyin": "bào yǔ"
+    },
+    "过敏": {
+        "traduction": [
+            "allergie"
+        ],
+        "pinyin": "guò mǐn"
+    },
+    "质量": {
+        "traduction": [
+            "qualité",
+            "masse"
+        ],
+        "pinyin": "zhì liàng"
+    },
+    "体质": {
+        "traduction": [
+            "constitution (physique)"
+        ],
+        "pinyin": "tǐ zhì"
+    },
+    "严格": {
+        "traduction": [
+            "strict",
+            "sévère"
+        ],
+        "pinyin": "yán gé"
+    },
+    "花生": {
+        "traduction": [
+            "arachide",
+            "cacahuète"
+        ],
+        "pinyin": "huā shēng"
+    },
+    "咖啡": {
+        "traduction": [
+            "café"
+        ],
+        "pinyin": "kā fēi"
+    },
+    "权利": {
+        "traduction": [
+            "droit (juridique)"
+        ],
+        "pinyin": "quán lì"
+    },
+    "权力": {
+        "traduction": [
+            "pouvoir (sociologie)"
+        ],
+        "pinyin": "quán lì"
+    },
+    "设计": {
+        "traduction": [
+            "concevoir",
+            "design"
+        ],
+        "pinyin": "shè jì"
+    },
+    "场景": {
+        "traduction": [
+            "scène",
+            "scénario"
+        ],
+        "pinyin": "chǎng jǐng"
+    },
+    "双方": {
+        "traduction": [
+            "les deux parties"
+        ],
+        "pinyin": "shuāng fāng"
+    },
+    "讲话": {
+        "traduction": [
+            "parole",
+            "discours",
+            "prendre la parole"
+        ],
+        "pinyin": "jiǎng huà"
+    },
+    "不超过": {
+        "traduction": [
+            "ne pas dépasser",
+            "ne pas excéder"
+        ],
+        "pinyin": "bù chāo guò"
+    },
+    "不少于": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": "bù shǎo yú"
+    },
+    "死路一条": {
+        "traduction": [
+            "(expr. idiom.) route vers la ruine",
+            "impasse"
+        ],
+        "pinyin": "sǐ lù yī tiáo"
+    },
+    "得心应手": {
+        "traduction": [
+            "(expr. idiom.) ce que le coeur veut, la main l'accomplit",
+            "qualifié pour l'emploi",
+            "entièrement dans son élément",
+            "aller en douceur et facilement"
+        ],
+        "pinyin": "dé xīn yìng shǒu"
+    },
+    "一分为二": {
+        "traduction": [
+            "(expr. idiom.) en deux",
+            "à deux faces"
+        ],
+        "pinyin": "yī fēn wéi èr"
+    },
+    "抢占资源": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "近朱者赤近墨者黑": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": "jìn zhū zhě chì jìn mò zhě hēi"
+    },
+    "他家的饭店关门了": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "他家的饭店关掉了": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "你是不是等着它自己关": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "文化补充礼轻情意重": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "习惯成自然": {
+        "traduction": [
+            "(expr. idiom.) l'habitude devient la nature",
+            "s'habituer inévitablement à qch",
+            "seconde nature"
+        ],
+        "pinyin": "xí guàn chéng zì rán"
+    },
+    "四百五十四字": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "超过": {
+        "traduction": [
+            "dépasser",
+            "excéder",
+            "l'emporter sur",
+            "surpasser"
+        ],
+        "pinyin": "chāo guò"
+    },
+    "阅读": {
+        "traduction": [
+            "lire",
+            "lecture"
+        ],
+        "pinyin": "yuè dú"
+    },
+    "蛮大": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "打扰": {
+        "traduction": [
+            "déranger",
+            "embêter",
+            "perturber"
+        ],
+        "pinyin": "dǎ rǎo"
+    },
+    "补课": {
+        "traduction": [
+            "rattraper un cours"
+        ],
+        "pinyin": "bǔ kè"
+    },
+    "模仿": {
+        "traduction": [
+            "imiter"
+        ],
+        "pinyin": "mó fǎng"
+    },
+    "向往": {
+        "traduction": [
+            "aspirer"
+        ],
+        "pinyin": "xiàng wǎng"
+    },
+    "前往": {
+        "traduction": [
+            "acheminer"
+        ],
+        "pinyin": "qián wǎng"
+    },
+    "深厚": {
+        "traduction": [
+            "profond",
+            "solide"
+        ],
+        "pinyin": "shēn hòu"
+    },
+    "包含": {
+        "traduction": [
+            "contenir",
+            "comprendre",
+            "englober"
+        ],
+        "pinyin": "bāo hán"
+    },
+    "祝愿": {
+        "traduction": [
+            "souhaiter"
+        ],
+        "pinyin": "zhù yuàn"
+    },
+    "情谊": {
+        "traduction": [
+            "amitié",
+            "cordialité",
+            "affection"
+        ],
+        "pinyin": "qíng yì"
+    },
+    "真挚": {
+        "traduction": [
+            "sincérité",
+            "cordialité"
+        ],
+        "pinyin": "zhēn zhì"
+    },
+    "价值": {
+        "traduction": [
+            "valeur (économie)"
+        ],
+        "pinyin": "jià zhí"
+    },
+    "内卷": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": "nèi juǎn"
+    },
+    "摆烂": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": "bǎi làn"
+    },
+    "蛋卷": {
+        "traduction": [
+            "pâté impérial"
+        ],
+        "pinyin": "dàn juǎn"
+    },
+    "焦虑": {
+        "traduction": [
+            "s'inquiéter de",
+            "se soucier de"
+        ],
+        "pinyin": "jiāo lǜ"
+    },
+    "迷路": {
+        "traduction": [
+            "se perdre",
+            "s'égarer"
+        ],
+        "pinyin": "mí lù"
+    },
+    "蜘蛛": {
+        "traduction": [
+            "araignée",
+            "araneae"
+        ],
+        "pinyin": "zhī zhū"
+    },
+    "肺炎": {
+        "traduction": [
+            "pneumonie"
+        ],
+        "pinyin": "fèi yán"
+    },
+    "节日": {
+        "traduction": [
+            "jour de fête",
+            "festival"
+        ],
+        "pinyin": "jié rì"
+    },
+    "气氛": {
+        "traduction": [
+            "atmosphère",
+            "ambiance"
+        ],
+        "pinyin": "qì fēn"
+    },
+    "游行": {
+        "traduction": [
+            "manifester"
+        ],
+        "pinyin": "yóu xíng"
+    },
+    "罢工": {
+        "traduction": [
+            "grève"
+        ],
+        "pinyin": "bà gōng"
+    },
+    "担心": {
+        "traduction": [
+            "se soucier de",
+            "s'inquiéter de",
+            "être inquiet",
+            "anxieux",
+            "inquiet"
+        ],
+        "pinyin": "dān xīn"
+    },
+    "危险": {
+        "traduction": [
+            "dangereux",
+            "périlleux",
+            "danger",
+            "péril"
+        ],
+        "pinyin": "wēi xiǎn"
+    },
+    "安全": {
+        "traduction": [
+            "sûreté",
+            "sécurité",
+            "fiabilité",
+            "sauf",
+            "sûr"
+        ],
+        "pinyin": "ān quán"
+    },
+    "功夫": {
+        "traduction": [
+            "temps",
+            "art",
+            "habileté",
+            "travail",
+            "kung-fu",
+            "art martial"
+        ],
+        "pinyin": "gōng fu"
+    },
+    "上街": {
+        "traduction": [
+            "faire des courses",
+            "descendre dans la rue"
+        ],
+        "pinyin": "shàng jiē"
+    },
+    "堵路": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "晚会": {
+        "traduction": [
+            "soirée festive"
+        ],
+        "pinyin": "wǎn huì"
+    },
+    "冷清": {
+        "traduction": [
+            "solitaire",
+            "désolé"
+        ],
+        "pinyin": "lěng qīng"
+    },
+    "热闹": {
+        "traduction": [
+            "animé",
+            "en pleine effervescence"
+        ],
+        "pinyin": "rè nao"
+    },
+    "庆祝": {
+        "traduction": [
+            "célébrer"
+        ],
+        "pinyin": "qìng zhù"
+    },
+    "军队": {
+        "traduction": [
+            "forces armées",
+            "armée",
+            "troupes"
+        ],
+        "pinyin": "jūn duì"
+    },
+    "士兵": {
+        "traduction": [
+            "soldat"
+        ],
+        "pinyin": "shì bīng"
+    },
+    "幸运": {
+        "traduction": [
+            "chance",
+            "chanceux"
+        ],
+        "pinyin": "xìng yùn"
+    },
+    "不幸": {
+        "traduction": [
+            "malédiction",
+            "malheur",
+            "misère",
+            "précipice",
+            "détresse",
+            "disgrâce",
+            "fatalité",
+            "épreuve",
+            "adversité",
+            "avatar",
+            "calamité"
+        ],
+        "pinyin": "bù xìng"
+    },
+    "拥挤": {
+        "traduction": [
+            "se presser",
+            "se bousculer",
+            "plein",
+            "bondé",
+            "noir de monde"
+        ],
+        "pinyin": "yōng jǐ"
+    },
+    "一辈子": {
+        "traduction": [
+            "toute la vie"
+        ],
+        "pinyin": "yī bèi zi"
+    },
+    "一扇窗": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "春节": {
+        "traduction": [
+            "Nouvel an chinois",
+            "Fête du printemps"
+        ],
+        "pinyin": "chūn jié"
+    },
+    "元宵节": {
+        "traduction": [
+            "Fête des lanternes"
+        ],
+        "pinyin": "yuán xiāo jié"
+    },
+    "万圣节": {
+        "traduction": [
+            "Halloween"
+        ],
+        "pinyin": "wàn shèng jié"
+    },
+    "圣诞节": {
+        "traduction": [
+            "(fête de) Noël"
+        ],
+        "pinyin": "shèng dàn jié"
+    },
+    "国庆节": {
+        "traduction": [
+            "fête nationale"
+        ],
+        "pinyin": "guó qìng jié"
+    },
+    "舞龙舞狮": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "香榭丽舍大街": {
+        "traduction": [
+            "Avenue des Champs-Élysées"
+        ],
+        "pinyin": "xiāng xiè lì shè dà jiē"
+    },
+    "自毁前程": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "千里送鹅毛礼轻情意重": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    },
+    "完美主义者": {
+        "traduction": [
+            "perfectionniste"
+        ],
+        "pinyin": "wán měi zhǔ yì zhě"
+    },
+    "文化补充先到先得": {
+        "traduction": [
+            ""
+        ],
+        "pinyin": null
+    }
+}

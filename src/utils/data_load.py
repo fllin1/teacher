@@ -1,37 +1,21 @@
-import os
+"""
+This module contains functions for loading and saving data.
 
-from docx import Document
+Functions:
+    save_progress(vocab: dict, path: Path) -> None
+"""
+
+import json
 
 
-def get_files_name(folder_path: str = "../data/raw"):
+def save_progress(vocab, path):
     """
-    Get all the files in the folder_path
+    Save progress to a JSON file.
 
     Args:
-        folder_path (str, optional): The folder path. Defaults to "../data/raw".
-
-    Returns:
-        list: List of files in the folder_path
+        vocab (dict): The vocabulary dictionary to save.
+        path (Path): The path to the JSON file.
     """
-    return [
-        f
-        for f in os.listdir(folder_path)
-        if os.path.isfile(os.path.join(folder_path, f)) and f.endswith(".docx")
-    ]
-
-
-def read_docx(file_path: str):
-    """
-    Read the docx file and return the full text
-
-    Args:
-        file_path (str): The file path of the docx file
-
-    Returns:
-        str: The full text of the docx file
-    """
-    doc = Document(file_path)
-    full_text = []
-    for para in doc.paragraphs:
-        full_text.append(para.text)
-    return " ".join(full_text)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(vocab, f, indent=4, ensure_ascii=False)
+    print(f"Progress saved to {path}")

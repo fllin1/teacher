@@ -40,7 +40,6 @@ Functions:
 Main function:
     main()
 
-
 Usage:
     python -m src.chinese.processing_xml
 """
@@ -124,11 +123,12 @@ class CardManager:
             catassign = card_elem.find("catassign")
             category = catassign.attrib["category"] if catassign is not None else None
             score_info = card_elem.find("scoreinfo")
+            traduction = entry.find("defn")
 
             card = Card(
                 character=entry.find("headword").text,
                 pronunciation=entry.find("pron").text,
-                traduction=entry.find("defn"),
+                traduction=traduction.text if traduction is not None else None,
                 category=category,
                 score=score_info.attrib.get("score")
                 if score_info is not None
@@ -230,7 +230,7 @@ class DefinitionParser:
         matches = list(re.finditer(pos_pattern, definition, re.IGNORECASE))
 
         if not matches:
-            return definition  # Return the whole definition if no parts of speech are found
+            return definition
 
         parsed_data = {}
 
@@ -309,7 +309,6 @@ def main():
     card_manager.remove_cards_by_categories(categories_to_remove)
 
     cards_data = [card.to_dict() for card in card_manager.cards]
-    print(cards_data)
     Save.save_json(
         file=cards_data,
         path=os.path.join(base_dir, "data/processed/chinese_pleco.json"),

@@ -74,7 +74,7 @@ class Save:
         """
         with open(path, "w", encoding="utf-8") as f:
             json.dump(file, f, indent=4, ensure_ascii=False)
-        print(f"Progress saved to {file}")
+        print(f"Progress saved to {path}")
 
     @staticmethod
     def save_docx(file, path) -> None:
@@ -88,7 +88,7 @@ class Save:
         doc = Document()
         doc.add_paragraph(file)
         doc.save(path)
-        print(f"Progress saved to {file}")
+        print(f"Progress saved to {path}")
 
 
 class File:

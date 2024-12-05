@@ -2,63 +2,60 @@
 This module contains the functions to scrape the Mandarin dictionary
 
 Functions:
-    generate_encoded_url(word: str) -> str
-    search_mandarin_dictionary_requests(query: str) -> list
+    get_pinyin(query) -> str
+    google_traduction_extractor(query) -> str
 
 Classes:
-    TraductionExtractor (object) -> Extract translations from search results
+    ChineInTranslator (object) - A class to extract translations from search results
+
+Usage:
+    To test the ChineInTranslator class:
+    python -m src.chinese.scraping
 """
 
 import re
 
 import requests
 from bs4 import BeautifulSoup
+import pinyin
 
 
-def generate_encoded_url(word: str) -> str:
+def get_pinyin(query) -> str:
     """
-    Generate the encoded URL for the word
+    Returns the pinyin pronunciation of the query.
 
     Args:
-        word (str): The word to encode
+        query (str): The query to get the pronunciation.
 
     Returns:
-        str: The encoded URL
+        str: The pronunciation of the query.
     """
-    base_url = "https://chine.in/mandarin/dictionnaire/index.php?mot="
-    encoded_word = "".join([f"%26%23{ord(char)}%3B" for char in word])
-    full_url = base_url + encoded_word
-    return full_url
+    pronunciation = pinyin.get(s=query, delimiter=" ")
+    return pronunciation
 
 
-def search_mandarin_dictionary_requests(query: str) -> str:
+def google_traduction_extractor(query) -> str:
     """
-    Search the Mandarin dictionary using requests
+    Extract the translation from Google Translate.
 
     Args:
-        query (str): The query to search
+        query (str): The query to search for translations.
 
     Returns:
-        str: The request response
+        str: The translation found.
     """
-    url = generate_encoded_url(query)
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
-        )
-    }
-    data = {"q": query, "Submit": "1"}
-
-    response = requests.post(url, headers=headers, data=data, timeout=3)
+    url_params = {"sl": "zh-CN", "tl": "fr", "q": query, "op": "translate"}
+    response = requests.get(
+        url="https://translate.google.com/m", params=url_params, timeout=3
+    )
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
-    results = soup.find_all(class_="table invert_img", id="resultats_dico")
-    return results[0]
+    element = soup.find("div", {"class": "result-container"})
+    return [element.text]
 
 
-class TraductionExtractor:
+class ChineInTranslator:
     """
     A class to extract translations from search results.
 
@@ -77,14 +74,46 @@ class TraductionExtractor:
         self.results_raw = ""
         self.results_processed = ""
 
-    # Treat HTML tags
-    def fetch_results(self):
+    def generate_encoded_url(self) -> str:
         """
-        Fetches the search results for the query.
+        Generate the encoded URL for the word
+
+        Args:
+            word (str): The word to encode
+
+        Returns:
+            str: The encoded URL
         """
-        results_raw = search_mandarin_dictionary_requests(self.query)
-        self.results_raw = str(results_raw)
-        self.results_processed = results_raw.get_text()
+        base_url = "https://chine.in/mandarin/dictionnaire/index.php?mot="
+        encoded_word = "".join([f"%26%23{ord(char)}%3B" for char in self.query])
+        full_url = base_url + encoded_word
+        return full_url
+
+    def chine_in_extractor(self) -> str:
+        """
+        Search the Mandarin dictionary using requests
+
+        Args:
+            query (str): The query to search
+
+        Returns:
+            str: The request response
+        """
+        url = self.generate_encoded_url()
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+            )
+        }
+        data = {"q": self.query, "Submit": "1"}
+
+        response = requests.post(url, headers=headers, data=data, timeout=3)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.text, "html.parser")
+        results = soup.find_all(class_="table invert_img", id="resultats_dico")
+        return results[0]
 
     def remove_html_tags(self, text: list) -> list:
         """
@@ -153,29 +182,16 @@ class TraductionExtractor:
         """
         Returns the translation or indicates if no translation was found.
         """
+        results_raw = self.chine_in_extractor()
+        self.results_raw = str(results_raw)
+        self.results_processed = results_raw.get_text()
+
         traduction = self.get_traduction()
 
         if traduction and "<li>" in traduction:
             traduction = traduction.split("</li>")[:-1]
         traduction = self.remove_html_tags(traduction)
         return traduction
-
-    # Get the pinyin
-    def get_pinyin(self) -> str:
-        """
-        Attempts to retrieve the pinyin from the results.
-
-        Returns:
-            str: The pinyin found, or None if no pinyin is available.
-        """
-        start_marker = "[ "
-        end_marker = "]"
-        pinyin = self.extract_between_markers(
-            result=self.results_processed,
-            start_marker=start_marker,
-            end_marker=end_marker,
-        )
-        return pinyin
 
 
 def main():
@@ -196,10 +212,9 @@ def main():
     ]
     for word in words:
         query = word["chinese"]
-        extractor = TraductionExtractor(query)
-        extractor.fetch_results()
+        extractor = ChineInTranslator(query)
         traduction = extractor.return_traduction()
-        pinyin = extractor.get_pinyin()
+        pronunciation = get_pinyin(query=query)
         print(
             "\n Query:",
             query,
@@ -210,7 +225,7 @@ def main():
             "\n Pinyin GPT4:",
             word["pinyin"],
             "; Pinyin found:",
-            pinyin,
+            pronunciation,
         )
 
 
